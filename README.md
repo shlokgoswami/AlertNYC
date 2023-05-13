@@ -18,6 +18,9 @@ Seaborn: A statistical data visualization library built on top of Matplotlib.
 
 The project architecture involves data profiling, data preparation and cleaning, data merging, data storage in MongoDB, and performing various analyses using MongoDB's aggregation framework. The results are visualized using Matplotlib, Seaborn, and Folium libraries.
 
+![Diagram](https://github.com/shlokgoswami/AlertNYC/raw/main/Blank%20diagram.png)
+
+
 ## Limitations and Future Work
 While the project provides valuable insights into crime patterns in New York City, there are some limitations to consider. These include:
 
